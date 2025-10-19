@@ -1,0 +1,11 @@
+*.a
+
+!lib.a
+
+/TODO
+
+build/
+
+doi/*.txt
+
+doc/**/*/pdf
